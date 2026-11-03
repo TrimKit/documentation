@@ -143,3 +143,35 @@
 }
 
 
+/* Side-by-side screenshots (3ds Max / Blender) */
+.md-typeset .tk-image-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 1.2rem 0 1.8rem;
+}
+
+.md-typeset .tk-image-pair figure {
+  margin: 0;
+}
+
+.md-typeset .tk-image-pair img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,.22);
+}
+
+.md-typeset .tk-image-pair figcaption {
+  margin-top: .4rem;
+  font-size: .75rem;
+  text-align: center;
+  color: var(--md-default-fg-color--light);
+}
+
+@media (max-width: 600px) {
+  .md-typeset .tk-image-pair {
+    grid-template-columns: 1fr;
+  }
+}

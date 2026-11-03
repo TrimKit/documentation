@@ -1,5 +1,16 @@
 # Trim Mode
 
+<div class="tk-image-pair" markdown="0">
+  <figure>
+    <a href="../assets/images/trim-max.jpg" target="_blank"><img src="../assets/images/trim-max.jpg" alt="Trim Mode in 3ds Max" loading="lazy"></a>
+    <figcaption>3ds Max</figcaption>
+  </figure>
+  <figure>
+    <a href="../assets/images/trim-blender.jpg" target="_blank"><img src="../assets/images/trim-blender.jpg" alt="Trim Mode in Blender" loading="lazy"></a>
+    <figcaption>Blender</figcaption>
+  </figure>
+</div>
+
 Trim mode maps an existing face selection onto a trim you already have on the sheet. It's the general-purpose tool for applying a trim to a set of faces.
 
 ## Mapping Mode

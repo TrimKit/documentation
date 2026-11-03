@@ -1,5 +1,16 @@
 # Edge Decal
 
+<div class="tk-image-pair" markdown="0">
+  <figure>
+    <a href="../assets/images/edge-max.jpg" target="_blank"><img src="../assets/images/edge-max.jpg" alt="Edge Decal in 3ds Max" loading="lazy"></a>
+    <figcaption>3ds Max</figcaption>
+  </figure>
+  <figure>
+    <a href="../assets/images/edge-blender.jpg" target="_blank"><img src="../assets/images/edge-blender.jpg" alt="Edge Decal in Blender" loading="lazy"></a>
+    <figcaption>Blender</figcaption>
+  </figure>
+</div>
+
 Edge Decal builds a ribbon of new geometry that follows a chain of selected edges, ideal for panel seams, cables, trim strips, and edge highlights.
 
 ## Create Edge Decal

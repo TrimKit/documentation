@@ -1,5 +1,16 @@
 # Decal Placer
 
+<div class="tk-image-pair" markdown="0">
+  <figure>
+    <a href="../assets/images/decal-max.jpg" target="_blank"><img src="../assets/images/decal-max.jpg" alt="Decal Placer in 3ds Max" loading="lazy"></a>
+    <figcaption>3ds Max</figcaption>
+  </figure>
+  <figure>
+    <a href="../assets/images/decal-blender.jpg" target="_blank"><img src="../assets/images/decal-blender.jpg" alt="Decal Placer in Blender" loading="lazy"></a>
+    <figcaption>Blender</figcaption>
+  </figure>
+</div>
+
 Decal Placer creates new decal geometry, small overlay meshes for details like bolts, stickers, grime, or trim strips, rather than mapping UVs on existing faces.
 
 ## Place Decal

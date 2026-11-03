@@ -1,5 +1,16 @@
 # Shared Interface
 
+<div class="tk-image-pair" markdown="0">
+  <figure>
+    <a href="../assets/images/shared-interface-max.jpg" target="_blank"><img src="../assets/images/shared-interface-max.jpg" alt="Shared Interface in 3ds Max" loading="lazy"></a>
+    <figcaption>3ds Max</figcaption>
+  </figure>
+  <figure>
+    <a href="../assets/images/shared-interface-blender.jpg" target="_blank"><img src="../assets/images/shared-interface-blender.jpg" alt="Shared Interface in Blender" loading="lazy"></a>
+    <figcaption>Blender</figcaption>
+  </figure>
+</div>
+
 ## Top Bar
 
 ### Load Texture
